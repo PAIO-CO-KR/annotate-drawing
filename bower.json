@@ -1,0 +1,28 @@
+{
+  "name": "annotate-drawing",
+  "version": "0.0.1",
+  "description": "annotate drawing",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "main": "index.js",
+  "authors": [
+    "PAIO co.,ltd."
+  ],
+  "keywords": [
+    "annotate",
+    "drawing",
+    "canvas"
+  ],
+  "license": "MIT",
+  "devDependencies": {
+    "webcomponentsjs": "~0.6.1"
+  },
+  "dependencies": {
+    "webcomponentsjs": "~0.6.1"
+  }
+}

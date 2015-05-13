@@ -1,0 +1,22 @@
+{
+  "name": "annotate-drawing",
+  "version": "0.0.1",
+  "description": "annotate drawing",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/your/repository.git"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "babel-core": "^5.3.1",
+    "babel-eslint": "^3.1.1",
+    "babelify": "^6.1.0",
+    "eslint": "^0.21.0",
+    "gulp": "^3.8.11",
+    "gulp-babel": "^5.1.0",
+    "gulp-browserify": "^0.5.1",
+    "gulp-clean": "^0.3.1",
+    "gulp-sourcemaps": "^1.5.2",
+    "run-sequence": "^1.1.0"
+  }
+}
